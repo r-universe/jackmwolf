@@ -2,5 +2,9 @@
   {
     "package": "pcsstools",
     "oncran": true
+  },
+  {
+    "package": "tehtuner",
+    "oncran": true
   }
 ]
