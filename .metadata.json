@@ -1,10 +1,10 @@
 [
   {
-    "package": "tehtuner",
+    "package": "pcsstools",
     "oncran": true
   },
   {
-    "package": "pcsstools",
+    "package": "tehtuner",
     "oncran": true
   }
 ]
